@@ -44,7 +44,6 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR 
 2. 🗣 Commented on 
