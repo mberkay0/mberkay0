@@ -1,6 +1,6 @@
-### Hi there, I'm Berkay 👋
+## Hi there, I'm Berkay 👋
 
-## About me 🔭
+### About me 🔭
 
 - 🖥 I'm a full-stack software developer
 - 🎓 I'm studying Electrical and Electronics Engineering
