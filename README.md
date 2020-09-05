@@ -1,16 +1,69 @@
-### Hi there 👋
+### Hi there, I'm Berkay 👋
 
-<!--
-**mberkay0/mberkay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🔭
 
-Here are some ideas to get you started:
+- 🖥 I'm a full-stack software developer
+- 🎓 I'm studying Electrical and Electronics Engineering
+- 💻 I love data science and deep learning
+- 🌱 I’m currently learning everything 🤣 wait is that possible 🤔
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to programming
+- 🌐 You can access all my open-source projects in this profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<img align="left" alt="mberkay0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+
+### 🔔 My Recent GitHub Activity
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1]
+2. 🗣 Commented on [#1]
+3. 🗣 Commented on [#1]
+4. 💪 Opened PR [#1]
+5. ❗️ Closed issue [#1]
+<!--END_SECTION:activity-->
+
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <a>💪 Maybe you want to star my projects<a/>
+   
+  <img align="left" alt="mberkay0 Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=mberkay0&repo=github-readme-stats" />
+
+</details>
+
+<!--LINKS:-->
+
+<!--END_LINKS-->
