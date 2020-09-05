@@ -44,13 +44,14 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR 
 2. 🗣 Commented on 
 3. 🗣 Commented on 
 4. 💪 Opened PR 
 5. ❗️ Closed issue 
-<!--END_SECTION:activity-->
+
 
 
 </details>
