@@ -12,7 +12,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="mberkay0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="left">
+   <a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clothessegmentation" height="30" width="40" /></a>
+</p>
 
 
 <br />
@@ -53,10 +55,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mberkay0&label=Profile%20views&color=0e75b6&style=flat" alt="mberkay0" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clothessegmentation" height="30" width="40" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberkay0&show_icons=true&locale=en&layout=compact" alt="mberkay0" /></p>
