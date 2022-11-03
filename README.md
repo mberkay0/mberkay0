@@ -57,11 +57,12 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <a>💪 Maybe you want to star my projects<a/>
    
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mberkay0&show_icons=true&hide_border=true" />
 
 </details>
+
+<a>💪 Maybe you want to star my projects<a/>
 
 <!--LINKS:-->
 
