@@ -3,7 +3,7 @@
 ### About me 🔭
 
 - 🖥 I'm a full-stack ML & DL developer
-- 🎓 I'm studying Electrical and Electronics Engineering
+- 🎓 I'm an Electrical and Electronics Engineer
 - 💻 I love data science and deep learning
 - 🌱 I’m currently learning everything about AI 🤔
 - 👯 I’m looking to collaborate with other content creators
