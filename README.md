@@ -2,10 +2,10 @@
 
 ### About me 🔭
 
-- 🖥 I'm a full-stack software developer
+- 🖥 I'm a full-stack ML & DL developer
 - 🎓 I'm studying Electrical and Electronics Engineering
 - 💻 I love data science and deep learning
-- 🌱 I’m currently learning everything 🤣 wait is that possible 🤔
+- 🌱 I’m currently learning everything about AI 🤔
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to programming
 - 🌐 You can access all my open-source projects in this profile
