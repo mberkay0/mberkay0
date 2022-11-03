@@ -36,8 +36,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
    
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mberkay0&show_icons=true&locale=en" alt="mberkay0" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mberkay0&" alt="mberkay0" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mberkay0&show_icons=true&locale=en" alt="mberkay0" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mberkay0&" alt="mberkay0" /></p>
    
 </details>
 
